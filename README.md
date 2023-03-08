@@ -1,0 +1,1 @@
+(Currently) simple project to give a daily briefing every morning.
