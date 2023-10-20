@@ -9,8 +9,6 @@ import os
 load_dotenv()
 weather_token = os.getenv('WEATHER_API_KEY')
 
-def getWeather():
-    pass
 
 
 # gets the coordinates of the location

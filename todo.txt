@@ -1,0 +1,1 @@
+- Store news articles all in one document in the news collection so that there can be multiple documents for each date news is retrieved.
